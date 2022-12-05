@@ -1,0 +1,65 @@
+body {
+    background: #FCDDB0;
+}
+header {
+    color: black;
+    font-size: 60px;
+    background: beige;
+    margin: auto;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav {
+    display: inline-block;
+    background: #6D9886;
+    padding: 30px;
+    justify-content: space-around;
+}
+
+.botonFooter{
+    background: #F49D1A;
+    padding: 20px 40px;
+    margin: 10px 20px;
+}
+
+.frases {
+    color: black;
+    background: #F3EFE0;
+    width: 80%;
+    padding: 20px;
+    margin: auto;
+}
+
+.centrarimg {
+    display: block;
+    margin: auto;
+}
+
+.heroes {
+    color: black;
+    font-size: 30px;
+    background: #6D9886;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.imghome{
+    width: 100%;
+    height: 100%;
+}
+
